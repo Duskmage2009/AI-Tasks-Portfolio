@@ -1,0 +1,45 @@
+{
+  "label2id": {
+    "O": 0,
+    "B-ANIMAL": 1,
+    "I-ANIMAL": 2
+  },
+  "id2label": {
+    "0": "O",
+    "1": "B-ANIMAL",
+    "2": "I-ANIMAL"
+  },
+  "animals": [
+    "dog",
+    "dogs",
+    "puppy",
+    "puppies",
+    "cat",
+    "cats",
+    "kitten",
+    "kittens",
+    "horse",
+    "horses",
+    "foal",
+    "spider",
+    "spiders",
+    "butterfly",
+    "butterflies",
+    "chicken",
+    "chickens",
+    "hen",
+    "hens",
+    "rooster",
+    "sheep",
+    "lamb",
+    "lambs",
+    "cow",
+    "cows",
+    "bull",
+    "calf",
+    "squirrel",
+    "squirrels",
+    "elephant",
+    "elephants"
+  ]
+}

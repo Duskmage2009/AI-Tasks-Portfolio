@@ -1,0 +1,4 @@
+from .base import MnistClassifierInterface
+from .random_forest import RandomForestMnistClassifier
+from .neural_network import NeuralNetworkMnistClassifier
+from .cnn import CNNMnistClassifier

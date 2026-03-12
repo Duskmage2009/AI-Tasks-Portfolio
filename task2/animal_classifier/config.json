@@ -1,0 +1,16 @@
+{
+  "classes": [
+    "butterfly",
+    "cat",
+    "chicken",
+    "cow",
+    "dog",
+    "elephant",
+    "horse",
+    "sheep",
+    "spider",
+    "squirrel"
+  ],
+  "num_classes": 10,
+  "img_size": 224
+}
